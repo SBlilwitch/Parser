@@ -122,7 +122,7 @@ for i in range (1,len(df.index)):
                     
                     
                     
-display(df)
+print(df)
 
 '''
 if __name__ == "__main__":
